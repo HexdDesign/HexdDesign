@@ -2,8 +2,8 @@
 - 👀 I’m interested in UX and UI Design, Illustration, and Web Design
 - 💞️ I’m looking to collaborate on more complex projects involving designing a website.
 - 📫 How to reach me would be social media, check out my linktree! [ Linktr.ee/Hexxxd ]
-- 😄 Pronouns: She / They
-- ⚡ Fun fact: INTJ, Disabled, and LGBTQ+!
+- :speech_balloon: Pronouns: She / They
+- ⚡ INTJ, Disabled, and LGBTQ+!
 
 <!---
 HexdDesign/HexdDesign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
