@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @HexdDesign
-- 👀 I’m interested in UX and UI Design, Illustration, and Web Design
-- 💞️ I’m looking to collaborate on more complex projects involving designing a website.
-- 📫 How to reach me would be social media, check out my linktree! [ Linktr.ee/Hexxxd ]
-- :speech_balloon: Pronouns: She / They
+- 📫 Check out my linktree! [ Linktr.ee/Hexxxd ]
+- :speech_balloon: She / They
 - ⚡ INTJ, Disabled, and LGBTQ+!
 
 <!---
