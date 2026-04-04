@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @HexdDesign
 - 🍙 I rice Arch Linux ~
 - :speech_balloon: They / Them
-- ⚡ INTJ, Disabled, and LGBTQ+!
+- ⚡ INTJ - 6W5
+- :accessibility:
+- 🏳️‍🌈
+  
 
 
 - 📫 Check out my linktree! [ Linktr.ee/Hexxxd ]
